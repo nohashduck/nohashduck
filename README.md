@@ -14,6 +14,11 @@ Beginner backend and desktop developer.
 
 ## 🛠 Technical Stack
 * C/C++
+* SDL2
+* SFML
+* CURL
+* JSONCPP
+* LINUX
 * PHP
 * JavaScript
 * SQL
