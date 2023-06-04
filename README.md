@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm nohashduck 👋
+Beginner backend and desktop developer.
 
-<!--
-**nohashduck/nohashduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=nohashduck&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=nohashduck&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/nohashduck/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohashduck&layout=compact"/></a>
+</p>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:dobutsuduck@gmail.com'>dobutsuduck@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+## 🛠 Technical Stack
+* C/C++
+* PHP
+* JavaScript
+* SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My opensource projects
+
+*   [hugaxyu](https://github.com/nohashduck/hugaxyu) - a simple game about a Russian schoolboy.
