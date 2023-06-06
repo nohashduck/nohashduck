@@ -12,17 +12,6 @@ Beginner backend and desktop developer.
    📫 How to reach me: <a href='mailto:dobutsuduck@gmail.com'>dobutsuduck@gmail.com</a>
 </p>
 
-## 🛠 Technical Stack
-* C/C++
-* SDL2
-* SFML
-* CURL
-* JSONCPP
-* LINUX
-* PHP
-* JavaScript
-* SQL
-
 ### My opensource projects
 
 *   [hugaxyu](https://github.com/nohashduck/hugaxyu) - a simple game about a Russian schoolboy.
